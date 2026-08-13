@@ -75,7 +75,6 @@ The notebook is self-contained and runs top to bottom in Google Colab or a local
 pip install -r requirements.txt
 ```
 
-Note: the 200-run Monte Carlo simulation (Section 6) takes approximately 40 minutes to execute in full.
 
 ## A note on data privacy
 
