@@ -1,5 +1,6 @@
 # Mission03-Airuma-Rocketpy
 UFABC Rocket Design — Project Airumã (Mission ID 03). RocketPy simulation, Kn diagnostics, and Monte Carlo/sensitivity analysis — LASC 2026.
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/e3e89959-cd70-4b81-9d9f-8bd255a2ae88" />
 
 # Project Airumã — RocketPy Flight Simulation & Analysis
 
